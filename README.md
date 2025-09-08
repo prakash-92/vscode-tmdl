@@ -41,14 +41,6 @@ TMDL syntax highlighting works best in the **Default Light** and **Dark Modern**
 - [**Breadcrumbs**](#breadcrumbs): Allow easy navigation within a TMDL document.
 - [**Hover Information**](#hover-information): Provides contextual information on mouse hover.
 
-## 🚧 Coming soon
-- **DAX Semantic Highlighting & Autocomplete**
-- **Hover Localization**
-- **Find References** 
-- **Context-Aware Renaming** 
-- **Context-Aware Delete Action** 
-- **Advanced Autocomplete** 
-
 ## Semantic Highlighting
 Semantic highlighting enhances readability by providing consistent and context-aware styling—for enums, errors, integers and strings in property values, as well as strings and comments in Power Query (PQ) and many more! Support for DAX queries is also coming soon.
 
