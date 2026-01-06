@@ -81,7 +81,7 @@ And many more helpful fixes.
 Allows easy navigation within a TMDL document showing the hierarchical structure of TMDL code
 
 ## Limitations
-
+* Known issue: In version 1.6.2, error validation is scoped at the workspace level, which may surface errors across multiple PBIP projects in the same workspace. If you prefer report-level validation, you can roll back to version 1.6.1.
 * Currently, the extension on web supports only syntax highlighting. Additional features will be added in future releases.
 * The Power Query Autocomplete feature may occasionally display 'No suggestion' in uncommon scenarios.
 
